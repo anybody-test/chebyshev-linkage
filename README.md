@@ -1,4 +1,4 @@
-# AnyBVody Chebyshev linkage model
+# AnyBody Chebyshev linkage model
 
 AnyBody model of the chebyshev linkage
 
